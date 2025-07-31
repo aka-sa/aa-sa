@@ -66,7 +66,12 @@ Currently fine-tuning models like **Qwen2**, building **LangChain-based reasonin
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-sa&layout=compact&theme=radical&langs_count=10" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aka-sa&show_icons=true&theme=gruvbox&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=aka-sa&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-sa&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" width="45%" />
 </p>
 
 ---

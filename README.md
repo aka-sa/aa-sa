@@ -4,8 +4,7 @@
 </p>
 
 ---
-**<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akansha-sharma&show_icons=true&theme=github_dark&rank_icon=github&custom_title=GitHub+Stats" width="48%" /> <img src="https://streak-stats.demolab.com/?user=akansha-sharma&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha-sharma&layout=compact&theme=github_dark&langs_count=8" width="50%" /> </p>**
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Building+Empathetic+AI+for+Everyone;Driven+by+Accessibility+and+Impact" alt="Typing Footer" /> </p> ```
 ---
 
 ### 💬 About Me
@@ -69,6 +68,29 @@ Currently working on integrating **transformer models, OCR, and Chrome extension
 - 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akansha-sharma-285994251/))  
 - 🌍 [Portfolio Website]([https://your-portfolio-link.com](https://app--akansha-portfolio-assistant-c6c54332.base44.app/))  
 - 🧠 [HuggingFace]([https://huggingface.co/your-profile](https://huggingface.co/akansha2k2))  
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:akansha.sharma2k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akansha.sharma2k%40gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/akansha-sharma-ai](https://linkedin.com/in/your-link](https://www.linkedin.com/in/akansha-sharma-285994251/">
+    <img src="https://img.shields.io/badge/LinkedIn-akansha--sharma--ai-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
+  </a>
+  
+  <a href="https://akansha-access.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-akansha--access.netlify.app-lightgrey?style=for-the-badge&logo=githubpages" alt="Portfolio badge" />
+  </a>
+  
+  <a href="https://huggingface.co/akansha-sharma">
+    <img src="https://img.shields.io/badge/HuggingFace-akansha--sharma-yellow?style=for-the-badge&logo=huggingface" alt="HuggingFace badge" />
+  </a>
+
+  <a href="https://github.com/akansha-sharma">
+    <img src="https://img.shields.io/badge/GitHub-akansha--sharma-black?style=for-the-badge&logo=github" alt="GitHub badge" />
+  </a>
+</p>
 
 ---
 

@@ -20,10 +20,8 @@ Currently working on integrating **transformer models, OCR, LangChain pipelines,
 
 ### 🛠️ Tech Toolbox
 
-### 🛠️ Tech Toolbox
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Languages:+Python,+LaTeX;Languages:+JavaScript,+SQL;Frameworks:+PyTorch,+TensorFlow;Frameworks:+HuggingFace,+Keras;Web:+React,+Streamlit;Web:+FastAPI,+Django;Tools:+Chrome+Extensions,+LangChain;Databases:+SQLite,+PostgreSQL,+Qdrant;Domains:+LLMs,+OCR,+NLP;Domains:+Accessibility,+Multimodal+AI" alt="Typing Animation for Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Languages:+Python +LaTeX;Frameworks:+PyTorch,+TensorFlow +HuggingFace +Keras;Web:+Streamlit +FastAPI,+Django;Tools:+Chrome+Extensions +LangChain;Databases:+SQLite+PostgreSQL +Qdrant;Domains:+LLMs +OCR +NLP+Accessibility +Multimodal+AI" alt="Typing Animation for Tech Stack" />
 </p>
 
 

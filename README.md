@@ -24,6 +24,20 @@ Currently working on integrating **transformer models, OCR, LangChain pipelines,
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD9&vCenter=true&multiline=true&width=750&lines=Languages:+Python,+LaTeX,+JavaScript,+SQL;Frameworks:+PyTorch,+TensorFlow,+HuggingFace,+Keras;Web:+React,+Streamlit,+FastAPI,+Django,+Chrome+Extensions;Databases:+SQLite,+PostgreSQL,+Qdrant;Domains:+LLMs,+OCR,+NLP,+Accessibility,+Multimodal+AI" alt="Typing Animation for Tech Stack" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 🌐 Connect with Me

@@ -4,6 +4,9 @@
 </p>
 
 ---
+**<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akansha-sharma&show_icons=true&theme=github_dark&rank_icon=github&custom_title=GitHub+Stats" width="48%" /> <img src="https://streak-stats.demolab.com/?user=akansha-sharma&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha-sharma&layout=compact&theme=github_dark&langs_count=8" width="50%" /> </p>**
+
+---
 
 ### 💬 About Me
 I'm an aspiring AI researcher dedicated to building **accessible, multimodal tools** that improve real-world experiences — especially in education and healthcare.  
@@ -69,4 +72,3 @@ Currently working on integrating **transformer models, OCR, and Chrome extension
 
 ---
 
-<p align="center"><i>“Bringing empathy to AI — one accessible project at a time.”</i></p>

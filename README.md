@@ -33,15 +33,6 @@ Currently working on integrating **transformer models, OCR, and Chrome extension
 
 ---
 
-### 🚀 Projects
-
-| Project | Summary | Demo |
-|--------|---------|------|
-| **Fine-Tuned Math QA Models** | Used Unsloth to fine-tune Qwen2/LLaVA on LaTeX dataset | 🔗 [GitHub](#) |
-| **Handwritten Digit Classifier** | CNN classifier on MNIST dataset with 92.4% accuracy | 🔗 [GitHub](#) |
-| **Meeting Analyzer** | Audio transcription + NLP summarizer for MoMs | 🔗 [GitHub](#) |
-
----
 
 ### 🛠️ Tech Toolbox
 
@@ -67,6 +58,8 @@ Currently working on integrating **transformer models, OCR, and Chrome extension
 </p>
 
 ---
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Building+Empathetic+AI+for+Everyone;Driven+by+Accessibility+and+Impact" alt="Typing Footer" /> </p> ```
 
 ### 🌐 Connect with Me
 - 📧 Email: akansha.sharma2k@gmail.com  

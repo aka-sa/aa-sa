@@ -18,7 +18,7 @@ Currently fine-tuning models like **Qwen2**, building **LangChain-based reasonin
 
 ---
 
-### 🛠️ Tech Toolbox (Animated)
+### 🛠️ Tech Toolbox 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Languages:+Python,+LaTeX;Languages:+JavaScript,+SQL;Frameworks:+PyTorch,+TensorFlow;Frameworks:+HuggingFace,+Keras;Web:+React,+Streamlit;Web:+FastAPI,+Django;Tools:+Chrome+Extensions,+LangChain;Databases:+SQLite,+PostgreSQL,+Qdrant;Domains:+LLMs,+OCR,+NLP;Domains:+Accessibility,+Multimodal+AI" alt="Typing Animation for Tech Stack" />

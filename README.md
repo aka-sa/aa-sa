@@ -1,70 +1,79 @@
-<h1 align="center">Hi, I'm Akansha Sharma 👋</h1>
+<h1 align="center">👋 Hi, I'm Akansha Sharma</h1>
 <p align="center">
-  Final Year B.Tech Student | Accessibility + AI Advocate | Full-Stack & ML Developer
+  🧠 Generative AI Research Intern | 🌍 Accessibility & NLP Developer | 🎓 B.Tech IT @ AEC (2026)
 </p>
 
 ---
 
-### 💡 About Me
-I'm passionate about building accessible, AI-powered tools that make a real difference in **healthcare, education, and daily productivity**.  
-From OCR-based finance managers to AI speech agents and multimodal LLM research, my work blends practical usability with cutting-edge tech.
+### 💬 About Me
+I'm an aspiring AI researcher dedicated to building **accessible, multimodal tools** that improve real-world experiences — especially in education and healthcare.  
+
+Currently working on integrating **transformer models, OCR, and Chrome extensions** to support inclusive STEM learning for visually impaired learners.
 
 ---
 
-### 🔭 Current Work
-- 🧠 **Personalized Speech Accessibility** using RLoT + Chain-of-Correction + Qwen2-VL  
-- 💊 **MediLens** – LLM-based prescription reader + medicine + diet manager  
-- 🌐 **STEM Helper** – Chrome Extension for accessible math descriptions on web  
-- 💬 **WhatsApp Code Explainer** – AI bot that explains code from text, image, or audio  
-- 🧾 **Finance Management System** – AI + OCR + investment insights using Streamlit + SQLite
+### 🔭 Current Focus
+- 🤖 Fine-tuning LLaVA, Mistral, and Qwen2 models for math QA  
+- 🧩 Building Chrome extensions for semantic math accessibility  
+- 📘 Research on **language models enhanced with external knowledge**  
+- 🗣️ Audio + text summarization tools for meetings and education
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, TypeScript, SQL  
-**Web & Frameworks:** React, Django, Streamlit, Flask  
-**AI/ML:** HuggingFace Transformers, CrewAI, LangChain, OpenCV, TTS/STT  
-**Tools:** Git, Docker, SQLite, Firebase, Puppeteer  
-**Cloud & DevOps:** Render, Railway, GitHub Actions, GoAccess  
+### 🧪 Research & Experience
+
+**🔬 STEM Accessibility Intern**  
+🧑‍💻 *NIT Durgapur / TCS Research* (Oct 2024 – Apr 2025)  
+- Developed LangChain-based pipeline with OCR (PaddleOCR) for math extraction  
+- Evaluated outputs with visually impaired users for accessibility improvements  
+- Integrated Flask backend + Chrome extension for live accessibility support  
+
+**📚 Paper**: *Pre-trained Language Model Augmented with Knowledge*  
+- Explored ways to inject factual knowledge into LLMs to improve reasoning
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| **MediLens** | AI-based prescription reader + medicine tracker + diet suggestion | 🔗 [Live Demo](#) |
-| **Personal Finance AI** | OCR-powered finance manager with investment advice | 🔗 [Live Demo](#) |
-| **STEM Helper Extension** | Chrome extension that generates math descriptions with vLLMs | 🔗 [Repo](#) |
-| **Code Explain on WhatsApp** | NLP + OCR + audio reply system for explaining code via chat | 🔗 [Demo](#) |
-| **Speech Accessibility RLoT** | Multimodal reflection-based agent for speech personalization | 🔗 [In Progress](#) |
+| Project | Summary | Demo |
+|--------|---------|------|
+| **Fine-Tuned Math QA Models** | Used Unsloth to fine-tune Qwen2/LLaVA on LaTeX dataset | 🔗 [GitHub](#) |
+| **Handwritten Digit Classifier** | CNN classifier on MNIST dataset with 92.4% accuracy | 🔗 [GitHub](#) |
+| **Meeting Analyzer** | Audio transcription + NLP summarizer for MoMs | 🔗 [GitHub](#) |
 
 ---
 
-### 🧠 Research Interests
-- vLLM Accessibility Systems (e.g. Alt-text generation, Image Description)  
-- Multi-Agent LLM Architectures (CrewAI, RLoT, Chain of Correction)  
-- MedTech & LegalTech applications  
-- EdTech automation and personalized learning AI
+### 🛠️ Tech Toolbox
+
+**Languages**: Python, LaTeX  
+**Frameworks**: PyTorch, TensorFlow, HuggingFace, Keras  
+**Web Dev**: Django, Streamlit, React, FastAPI, Chrome Extensions  
+**Databases**: SQLite, PostgreSQL, Qdrant  
+**Domains**: LLMs, OCR, NLP, DevTools, Accessibility, AI/ML
+
+---
+
+### 📜 Certifications
+- 🤖 AI Agents for Everyone  
+- 🛠️ DevOps & Project Management  
+- 🧠 GenAI Bootcamps & Workshops
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akansha-sharma&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha-sharma&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akansha-sharma&show_icons=true&theme=vision-friendly-dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha-sharma&theme=vision-friendly-dark" width="48%"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
-- 🖥️ [Portfolio Website](#)  
-- 🔗 [LinkedIn](https://linkedin.com/in/akansha-sharma)  
-- 🧠 [HuggingFace Profile](#)  
-- 🧪 [Research Poster – STEAM](#)  
-- ✉️ akansha@example.com
+### 🌐 Connect with Me
+- 📧 Email: akansha.sharma2k@gmail.com  
+- 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akansha-sharma-285994251/))  
+- 🌍 [Portfolio Website]([https://your-portfolio-link.com](https://app--akansha-portfolio-assistant-c6c54332.base44.app/))  
+- 🧠 [HuggingFace]([https://huggingface.co/your-profile](https://huggingface.co/akansha2k2))  
 
 ---
 
-*“Building for accessibility, powered by AI, guided by empathy.”*
-
+<p align="center"><i>“Bringing empathy to AI — one accessible project at a time.”</i></p>
